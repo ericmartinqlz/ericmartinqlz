@@ -1,4 +1,5 @@
 # Hi there 👋 , I'm Eric Martin!
+A Computer Science student who is interested in Front-End Development
 
 <!--
 **ericmartinqlz/ericmartinqlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +21,4 @@
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmartinqlz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
