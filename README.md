@@ -19,7 +19,5 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-<p>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmartinqlz)](https://github.com/anuraghazra/github-readme-stats)
