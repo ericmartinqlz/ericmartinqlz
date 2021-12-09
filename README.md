@@ -1,5 +1,9 @@
 # Hi there 👋 , I'm Eric Martin!
-A Computer Science student who is interested in Front-End Development
+    Computer Science Undergraduate student at Universitas Sumatera Utara. Loves to learn and interested in new and challenging things. Always try to do tasks carefully and as much as possible.
+    Known technology since childhood and interested in it since junior high school. Want to be an expert Front End Developer and having big dream in the Virtual Reality field.
+
+👇 Visit my personal website 👇
+[EricMartinQLZ - Personal Website](https://ericmartinqlz.github.io/)
 
 <!--
 **ericmartinqlz/ericmartinqlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
