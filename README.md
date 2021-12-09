@@ -18,7 +18,7 @@
 
 ## 👇 Get In Touch 👇  
 ### [Personal site - EricMartinQLZ](https://ericmartinqlz.github.io/)  
-### [LinkedIn - Eric Martin](https://ericmartinqlz.github.io/)  
+### [LinkedIn - Eric Martin](https://www.linkedin.com/in/ericmartinqlz/)  
 
 ## Tools:
 <p>
