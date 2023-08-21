@@ -14,6 +14,7 @@
 
 # Hi there 👋 , I'm Eric Martin!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Science graduate with internship and work experience as a Web developer. Loves to learn and interested in new and challenging things. Always try to do tasks carefully and as much as possible.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Known technology since childhood and interested in it since junior high school. Want to be an expert Front-end web developer and having big dream in the Virtual Reality field.
 
 ## 👇 Get In Touch 👇  
